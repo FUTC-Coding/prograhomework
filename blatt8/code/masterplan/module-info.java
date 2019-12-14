@@ -1,0 +1,3 @@
+module masterplan {
+	exports masterplan;
+}
